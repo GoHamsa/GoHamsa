@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamsa</h1>
 <h3 align="center">Full-Stack Developer from Vienna, evolving to a full-blown software developer</h3>
 
+- 🔭 I’m interested in crypto-currencies
+- 🤝 I’m looking for peers to learn with
+- 📚 I’m looking for mentors to learn from
+- 🌱 I’m currently looking for employment
 - 📫 How to reach me **hamsa.g@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
